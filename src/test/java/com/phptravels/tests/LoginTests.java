@@ -11,7 +11,7 @@ public class LoginTests {
 		
 		System.out.println("Test Run");
 		//Edited to show changes in Git
-		System.out.println("Test Run completed");
+		System.out.println("Test Run end");
 		
 		
 	}
